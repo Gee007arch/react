@@ -1,5 +1,7 @@
 # React+TypeScript Cheatsheets
 
+//Forked some code
+
 Cheatsheets for experienced React developers getting started with TypeScript
 
 ---
